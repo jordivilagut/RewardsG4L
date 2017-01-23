@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Example GymForLess.iml" filepath="$PROJECT_DIR$/.idea/modules/Example GymForLess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Example_GymForLess_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Example_GymForLess_main.iml" group="Example GymForLess" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Example_GymForLess_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Example_GymForLess_test.iml" group="Example GymForLess" />
+    </modules>
+  </component>
+</project>
